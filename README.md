@@ -1,0 +1,1 @@
+# C_CUDA_UPOW_MINER
